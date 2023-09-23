@@ -26,6 +26,15 @@ nav {
   margin-bottom: 30px;
 }
 
+.avatar {
+  width: 45px;
+  border-radius: 50%;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  cursor: pointer;
+}
+
 nav h2 {
   position: absolute;
   left: 51px;
@@ -45,6 +54,8 @@ nav h2 {
 a {
   cursor: pointer;
   padding: 8px 20px;
+  text-decoration: none;
+  color: #000;
 }
 
 a:hover {
@@ -52,7 +63,7 @@ a:hover {
 }
 
 a:first-child {
-  border-bottom: 3px solid #3069c5;
+  border-bottom: 3px solid #0766ff;
 }
 
 textarea {
