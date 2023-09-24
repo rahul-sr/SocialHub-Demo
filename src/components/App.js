@@ -1,7 +1,27 @@
 import "../App.css";
+import NavBar from "./NavBar";
+import PostContainer from "./PostContainer";
 
 function App() {
-  return <div className="app">Hello World</div>;
+  return (
+    <>
+      <NavBar />
+      <PostContainer />
+    </>
+  );
 }
 
 export default App;
+
+// NavBar
+
+// PostContainer
+// AddPost
+// Post
+// PostAction
+
+// Button
+// Avatar
+// Logo
+// Footer
+// Sidebar
