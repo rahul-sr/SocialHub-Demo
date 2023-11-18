@@ -1,5 +1,6 @@
 # Social Hub
-![SocialHub](https://github.com/rahul-sr/SocialHub-Demo/assets/16071840/7fd4ae93-7086-4597-b613-aee66430ab6d)
+![Screenshot 2023-11-18 133924](https://github.com/rahul-sr/SocialHub-Demo/assets/16071840/5ab58601-568e-4fa3-ad19-f398e6679e3b)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
