@@ -1,10 +1,14 @@
 # Social Hub
+![Screenshot 2023-11-18 133924](https://github.com/rahul-sr/SocialHub-Demo/assets/16071840/5ab58601-568e-4fa3-ad19-f398e6679e3b)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+
 
 ### `npm start`
 
