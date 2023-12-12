@@ -6,8 +6,27 @@ import { useFetchPosts } from "../hooks/useFetchPosts";
 
 export const PostContext = createContext();
 
+const p = [
+  {
+    text: "Travelling to NY",
+    like: 10,
+  },
+  {
+    text: "Beautiful Day",
+    like: 2,
+  },
+  {
+    text: "IND vs AUS, What a match!",
+    like: 20,
+  },
+  {
+    text: "AI is getting real!",
+    like: 5,
+  },
+];
+
 function PostContainer() {
-  const [posts, fetchPosts] = useFetchPosts();
+  const [posts, fetchPosts] = [p, () => {}];
   return (
     <PostContext.Provider value={fetchPosts}>
       <div className="container">
